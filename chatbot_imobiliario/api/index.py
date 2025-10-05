@@ -115,5 +115,7 @@ def webhook():
 def home():
     return "✅ Chatbot Imobiliário ativo na Vercel"
 
-# Exporta o Flask app para Vercel
-app = app
+# === Exporta o app Flask para a Vercel ===
+if __name__ != "__main__":
+    # Necessário para Vercel reconhecer o objeto app
+    app = app

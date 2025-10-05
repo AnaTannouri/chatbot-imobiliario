@@ -2,14 +2,14 @@
     "version": 2,
     "builds": [
         {
-            "src": "api/index.py",
+            "src": "chatbot_imobiliario/api/index.py",
             "use": "@vercel/python"
         }
     ],
     "routes": [
         {
             "src": "/(.*)",
-            "dest": "api/index.py"
+            "dest": "chatbot_imobiliario/api/index.py"
         }
     ]
 }
