@@ -1,7 +1,7 @@
 Flask==3.0.2
 python-telegram-bot==20.7
 sentence-transformers==2.2.2
-pinecone-client==3.1.0
+pinecone==3.1.0
 openai==1.10.0
 torch
 transformers
