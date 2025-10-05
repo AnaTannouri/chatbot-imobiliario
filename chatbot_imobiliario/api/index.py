@@ -19,7 +19,7 @@ pc = Pinecone(api_key=PINECONE_API_KEY)
 index = pc.Index("chatbot-imobiliario")
 
 # Modelo multilíngue (768 dimensões)
-modelo = SentenceTransformer("sentence-transformers/paraphrase-multilingual-mpnet-base-v2")
+modelo = SentenceTransformer("distiluse-base-multilingual-cased-v2")
 
 # Link da pesquisa
 LINK_PESQUISA = (
