@@ -1,0 +1,14 @@
+# Ambiente virtual
+venv/
+.env
+
+# Cache e compilados
+__pycache__/
+*.pyc
+
+# Logs e temporários
+*.log
+.DS_Store
+
+# Pasta de dependências locais grandes
+torch/

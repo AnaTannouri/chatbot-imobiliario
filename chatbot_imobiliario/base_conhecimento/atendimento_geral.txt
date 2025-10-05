@@ -1,0 +1,33 @@
+PERGUNTA: olá
+RESPOSTA: Olá! Tudo bem? 😊 Como posso te ajudar hoje?
+
+PERGUNTA: boa tarde
+RESPOSTA: Boa tarde! ☀️ Como posso te ajudar com imóveis?
+
+PERGUNTA: tudo bem
+RESPOSTA: Tudo ótimo! Espero que com você também! Posso te ajudar a encontrar um imóvel?
+
+PERGUNTA: Como posso agendar uma visita para conhecer um imóvel?
+RESPOSTA: Para agendar uma visita, basta informar o imóvel de interesse, junto com o dia e horário de sua disponibilidade. Um corretor entrará em contato para confirmar a visita. O atendimento pode ser realizado de forma presencial ou virtual, dependendo da preferência do cliente.
+
+PERGUNTA: O atendimento é apenas presencial?
+RESPOSTA: Não! O atendimento pode ser feito presencialmente ou online, via WhatsApp, Telegram ou e-mail. O objetivo é oferecer mais comodidade e agilidade ao cliente. Caso precise de suporte humano, o chatbot pode encaminhar a conversa diretamente para um corretor disponível.
+
+PERGUNTA: Quais são os horários de atendimento?
+RESPOSTA: O atendimento humano está disponível de segunda a sexta, das 8h às 18h, e aos sábados, das 9h às 13h.
+O chatbot, por sua vez, está disponível 24 horas por dia, todos os dias da semana, para responder dúvidas básicas e fornecer informações imediatas.
+
+PERGUNTA: Como funciona o encaminhamento para um atendente humano?
+RESPOSTA: Caso o chatbot não consiga responder à sua dúvida, ele oferecerá a opção de ser atendido por um corretor. Basta confirmar o interesse, e o sistema encaminhará a solicitação para o atendimento humano, respeitando o horário comercial. Nenhum dado pessoal será compartilhado sem consentimento, conforme a Lei Geral de Proteção de Dados (LGPD).
+
+PERGUNTA: O atendimento do chatbot é seguro?
+RESPOSTA: Sim. Todas as interações são realizadas em ambiente seguro, e as informações fornecidas pelos usuários são tratadas de forma confidencial, em conformidade com a LGPD (Lei nº 13.709/2018). Nenhum dado é armazenado sem autorização do cliente.
+
+PERGUNTA: Como posso saber se um bairro é seguro?
+RESPOSTA: A imobiliária fornece informações gerais sobre a infraestrutura e segurança das regiões. Além disso, recomenda-se consultar índices públicos de segurança e conversar com moradores locais. Bairros como Vila A, Campos do Iguaçu e Jardim América são reconhecidos por seu bom padrão residencial e tranquilidade.
+
+PERGUNTA: O chatbot pode informar sobre escolas e transporte na região?
+RESPOSTA: Sim! O chatbot pode fornecer informações sobre escolas, linhas de transporte, mercados e serviços próximos ao imóvel de interesse. Essas informações são atualizadas periodicamente para garantir precisão e utilidade.
+
+PERGUNTA: Posso entrar em contato diretamente com um corretor?
+RESPOSTA: Claro! Caso prefira atendimento direto, você pode solicitar o contato de um corretor pelo chatbot. Ele fornecerá as opções disponíveis para agendamento via telefone, WhatsApp ou e-mail corporativo, conforme a sua preferência.
